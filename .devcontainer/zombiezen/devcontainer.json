@@ -1,0 +1,4 @@
+{
+    "name": "Ross's Codespace Configuration",
+    "image": "ghcr.io/zombiezen/codespaces-nix"
+}
